@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlytaloMVC", "AlytaloMVC\AlytaloMVC.csproj", "{19982600-D241-4F75-AF0B-E06567A0AE0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19982600-D241-4F75-AF0B-E06567A0AE0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19982600-D241-4F75-AF0B-E06567A0AE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19982600-D241-4F75-AF0B-E06567A0AE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19982600-D241-4F75-AF0B-E06567A0AE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9806E7B-229B-4A39-803D-F7992F914BD6}
+	EndGlobalSection
+EndGlobal
